@@ -1,1 +1,460 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T02:17:39.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" version="13.9.2" etag="rJH6EFAosJFgAerLdyyl" type="github"><diagram id="uGDyWZWeratfbbih0d8j">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-06T05:03:59.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="vL9-5VCq4N5un0Qd8sVV" version="13.9.2" type="github">
+  <diagram id="uGDyWZWeratfbbih0d8j" name="第 1 页">
+    <mxGraphModel dx="1300" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-467" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="115" y="60" width="1050" height="4450" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-210" value="1 编制项目建议书" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="390" y="70.15765765765765" width="140" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-211" value="2 项目建议书审批（获开展前期工作的函）" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="305" y="170.38288288288288" width="310" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-210" target="P4rsjh-ctUIqkbW4M1at-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-213" value="3 项目公司名称预核准" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="370" y="270.60810810810807" width="180" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-211" target="P4rsjh-ctUIqkbW4M1at-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-215" value="4 用地规划选址审批" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="380" y="370.8333333333333" width="160" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-213" target="P4rsjh-ctUIqkbW4M1at-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-217" value="5 编制项目申请报告（可行性研究报告）" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="300" y="471.05855855855856" width="320" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-215" target="P4rsjh-ctUIqkbW4M1at-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-219" value="6 水土保持报告及批复" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="130" y="601.3513513513514" width="170" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-220" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-217" target="P4rsjh-ctUIqkbW4M1at-219">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="561.2612612612612" />
+              <mxPoint x="215" y="561.2612612612612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-221" value="10 接入系统可研及批复" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="375" y="801.8018018018017" width="170" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-222" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-217" target="P4rsjh-ctUIqkbW4M1at-221">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="611.3738738738739" />
+              <mxPoint x="460" y="611.3738738738739" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-223" value="9建设用地预审批" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="510" y="601.3513513513514" width="140" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-224" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-217" target="P4rsjh-ctUIqkbW4M1at-223">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="561.2612612612612" />
+              <mxPoint x="580" y="561.2612612612612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-225" value="&lt;div&gt;11 编制安全预评价、地质灾害评&lt;span&gt;价、卫生预评价、节能评估报告及&lt;/span&gt;&lt;span&gt;备案&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="710" y="601.3513513513514" width="270" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-226" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-217" target="P4rsjh-ctUIqkbW4M1at-225">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="561.2612612612612" />
+              <mxPoint x="845" y="561.2612612612612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-227" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-223" target="P4rsjh-ctUIqkbW4M1at-221">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="671.509009009009" as="sourcePoint" />
+            <mxPoint x="650" y="621.3963963963964" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-228" value="7 水资源论证及取水批复" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="125" y="701.5765765765765" width="180" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-229" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-219" target="P4rsjh-ctUIqkbW4M1at-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-230" value="8 编制环境影响评价报告及审批" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="100" y="801.8018018018017" width="230" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-228" target="P4rsjh-ctUIqkbW4M1at-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-232" value="12 项目核准（第一阶段结束）" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fontColor=#FF3333;fontStyle=1" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="345" y="932.0945945945945" width="230" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-234" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-225" target="P4rsjh-ctUIqkbW4M1at-232">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="881.9819819819819" as="sourcePoint" />
+            <mxPoint x="650" y="831.8693693693693" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="845" y="902.027027027027" />
+              <mxPoint x="460" y="902.027027027027" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-221" target="P4rsjh-ctUIqkbW4M1at-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-235" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-230" target="P4rsjh-ctUIqkbW4M1at-232">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="881.9819819819819" as="sourcePoint" />
+            <mxPoint x="460" y="992.2297297297297" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="215" y="902.027027027027" />
+              <mxPoint x="460" y="902.027027027027" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-239" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" target="P4rsjh-ctUIqkbW4M1at-238">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1102.4774774774776" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="460" y="1142.5675675675675" />
+              <mxPoint x="205" y="1142.5675675675675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-236" value="13 项目公司注册审批" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="375" y="1041.34009009009" width="170" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-232" target="P4rsjh-ctUIqkbW4M1at-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-238" value="14 建设用地规划许可证审批" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="100" y="1181.6554054054052" width="210" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-240" value="19 设计、施工、监理单位招标、设备采购" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="530" y="1181.6554054054052" width="300" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-236" target="P4rsjh-ctUIqkbW4M1at-240">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="1141.5653153153153" />
+              <mxPoint x="680" y="1141.5653153153153" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-242" value="15 征地拆迁" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="145" y="1282.8828828828828" width="120" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-238" target="P4rsjh-ctUIqkbW4M1at-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-244" value="16 五通一平" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="145" y="1383.108108108108" width="120" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-242" target="P4rsjh-ctUIqkbW4M1at-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-246" value="17 耕地许可证、林地许可证审批" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="82.5" y="1483.3333333333333" width="245" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-247" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-244" target="P4rsjh-ctUIqkbW4M1at-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-248" value="18 土地使用证审批" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="132.5" y="1583.5585585585586" width="145" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-249" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-246" target="P4rsjh-ctUIqkbW4M1at-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-250" value="20 地质详勘" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="620" y="1282.8828828828828" width="120" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-251" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-240" target="P4rsjh-ctUIqkbW4M1at-250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-252" value="21 初步设计及评审" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="600" y="1383.108108108108" width="160" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-253" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-250" target="P4rsjh-ctUIqkbW4M1at-252">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-254" value="22 土建施工图设计及审批" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="580" y="1483.3333333333333" width="200" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-255" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-252" target="P4rsjh-ctUIqkbW4M1at-254">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-256" value="23 安装施工图设计及审批" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="577.5" y="1583.5585585585586" width="205" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-258" value="24 建设工程规划许可证审批" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="295" y="1723.8738738738737" width="210" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-254" target="P4rsjh-ctUIqkbW4M1at-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-260" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-248" target="P4rsjh-ctUIqkbW4M1at-258">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1733.8963963963963" as="sourcePoint" />
+            <mxPoint x="430" y="1683.7837837837837" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-261" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-256">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1733.8963963963963" as="sourcePoint" />
+            <mxPoint x="400" y="1723.8738738738737" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-262" value="&lt;div&gt;25 质量监督注册备案、安全监督、防雷、抗震、人防、消防设计、河&lt;span&gt;道占用、招标中心备案、合同备案、工程保险、省外单位入省备案等。&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="140" y="1824.099099099099" width="520" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-263" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-258" target="P4rsjh-ctUIqkbW4M1at-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-264" value="26 建设工程施工许可证审批完成（第二阶段结束）" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fontColor=#FF3333;fontStyle=1" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="215" y="1924.3243243243242" width="370" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-265" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-262" target="P4rsjh-ctUIqkbW4M1at-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-266" value="27 工程开工建设" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="330" y="2024.5495495495495" width="140" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-267" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-264" target="P4rsjh-ctUIqkbW4M1at-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-268" value="28 工程首次质量监督" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="315" y="2124.7747747747744" width="170" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-269" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-266" target="P4rsjh-ctUIqkbW4M1at-268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-270" value="&lt;div&gt;29 土建工程质量监督（分四阶段）&lt;/div&gt;&lt;div&gt;1、 主厂房出零米，零米下基础完成&lt;/div&gt;&lt;div&gt;2、 主厂房上部结构中期（非必查）&lt;/div&gt;&lt;div&gt;&lt;span&gt;3、 主厂房主结构完成、汽机房封顶&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; 4、 主厂房装饰装修完成，整套启动前&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="243.75" y="2225" width="312.5" height="120.27027027027026" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-268" target="P4rsjh-ctUIqkbW4M1at-270">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-272" value="30 锅炉水压试验前质量监督" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="290" y="2415.427927927928" width="220" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-273" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-270" target="P4rsjh-ctUIqkbW4M1at-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-274" value="34 消防验收（备案）" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="677.5" y="2124.7747747747744" width="170" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-275" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-270" target="P4rsjh-ctUIqkbW4M1at-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-276" value="&lt;div&gt;35 特种设备取证（压力容器、起&lt;span&gt;重机械等）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="655" y="2214.9774774774774" width="215" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-277" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-274" target="P4rsjh-ctUIqkbW4M1at-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-278" value="&lt;div&gt;36 运行人员取证（司炉、压力容&lt;span&gt;器、化水、电工等）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="658.75" y="2315.2027027027025" width="207.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-279" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-276" target="P4rsjh-ctUIqkbW4M1at-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-280" value="37 签订并网调度协议" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="678.75" y="2415.427927927928" width="167.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-281" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-278" target="P4rsjh-ctUIqkbW4M1at-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-282" value="31 汽轮机扣盖前质量监督" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="305" y="2515.653153153153" width="190" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-283" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-272" target="P4rsjh-ctUIqkbW4M1at-282">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-284" value="32 厂用电系统受电前质量监督" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="290" y="2615.878378378378" width="220" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-285" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-282" target="P4rsjh-ctUIqkbW4M1at-284">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-286" value="33 机组整套启动前质量监督" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="295" y="2716.1036036036035" width="210" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-287" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-284" target="P4rsjh-ctUIqkbW4M1at-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-288" value="38 签订购售电合同" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="688.75" y="2515.653153153153" width="147.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-289" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-280" target="P4rsjh-ctUIqkbW4M1at-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-290" value="30 环保试生产核准" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="683.75" y="2615.878378378378" width="157.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-291" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-288" target="P4rsjh-ctUIqkbW4M1at-290">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-292" value="40 电力业务许可证" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="688.75" y="2716.1036036036035" width="147.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-294" value="41 机组启动前启委会" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="510" y="2836.3738738738734" width="165" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-293" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-290" target="P4rsjh-ctUIqkbW4M1at-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-296" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-292" target="P4rsjh-ctUIqkbW4M1at-294">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="2886.4864864864867" as="sourcePoint" />
+            <mxPoint x="588" y="2876.463963963964" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-297" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-286" target="P4rsjh-ctUIqkbW4M1at-294">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="2886.4864864864867" as="sourcePoint" />
+            <mxPoint x="590" y="2876.463963963964" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-298" value="72+24 小时试运行考核完成（第三阶段结束）" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fontColor=#FF3333;fontStyle=1" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="418.75" y="2926.5765765765764" width="347.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-299" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-294" target="P4rsjh-ctUIqkbW4M1at-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-300" value="43 机组整套启动后质量监" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="330" y="3076.914414414414" width="190" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-301" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-298" target="P4rsjh-ctUIqkbW4M1at-300">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-302" value="46 环保验收监测（含二恶英）" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="640" y="3076.914414414414" width="225" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-303" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-298" target="P4rsjh-ctUIqkbW4M1at-302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-304" value="44 锅炉使用登记证" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="347.5" y="3177.1396396396394" width="155" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-305" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-300" target="P4rsjh-ctUIqkbW4M1at-304">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-306" value="45 并网安全性评价" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="337.5" y="3277.3648648648646" width="175" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-307" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-304" target="P4rsjh-ctUIqkbW4M1at-306">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-308" value="49 机组移交生产前启委会" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="505" y="3387.6126126126123" width="190" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-310" value="47 烟气在线装置联网运行" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="658.75" y="3177.1396396396394" width="187.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-311" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-302" target="P4rsjh-ctUIqkbW4M1at-310">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-312" value="48 达标建设评估（江苏）" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="658.75" y="3277.3648648648646" width="187.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-314" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-312" target="P4rsjh-ctUIqkbW4M1at-308">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="3307.4324324324325" as="sourcePoint" />
+            <mxPoint x="720" y="3257.3198198198197" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-313" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-310" target="P4rsjh-ctUIqkbW4M1at-312">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-315" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-306" target="P4rsjh-ctUIqkbW4M1at-308">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="3307.4324324324325" as="sourcePoint" />
+            <mxPoint x="720" y="3257.3198198198197" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-316" value="50 启动验收交接书（第四阶段结束）" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="455" y="3487.8378378378375" width="290" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-317" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-308" target="P4rsjh-ctUIqkbW4M1at-316">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-318" value="51 环保三同时验收" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="325" y="3628.153153153153" width="155" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-319" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-316" target="P4rsjh-ctUIqkbW4M1at-318">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-320" value="57 电价审批" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="540" y="3628.153153153153" width="120" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-321" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-316" target="P4rsjh-ctUIqkbW4M1at-320">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-322" value="58 资源综合利用认定" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="720" y="3628.153153153153" width="177.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-323" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-316" target="P4rsjh-ctUIqkbW4M1at-322">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-324" value="52 安全、职业卫生三同时验收" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="288.75" y="3728.378378378378" width="227.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-325" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-318" target="P4rsjh-ctUIqkbW4M1at-324">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-326" value="53 工程决算审计" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="333.75" y="3828.6036036036035" width="137.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-327" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-324" target="P4rsjh-ctUIqkbW4M1at-326">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-328" value="54 档案移交验收" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="324" y="3928.8288288288286" width="157.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-329" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-326" target="P4rsjh-ctUIqkbW4M1at-328">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-330" value="&lt;div&gt;55 规划验收，数字信息地图、白&lt;span&gt;蚁防治、放验线、房屋面积测绘&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="283.88" y="4029.054054054054" width="237.25" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-331" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-328" target="P4rsjh-ctUIqkbW4M1at-330">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-332" value="56 竣工验收质量监督" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="318.76" y="4129.279279279279" width="167.5" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-333" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-330" target="P4rsjh-ctUIqkbW4M1at-332">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-334" value="60 竣工验收备案（第五阶段结束）" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fontColor=#FF3333;fontStyle=1" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="568.75" y="4279.617117117117" width="301.25" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-336" value="59 无害化等级评定（江苏）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="P4rsjh-ctUIqkbW4M1at-467">
+          <mxGeometry x="745" y="4129.279279279279" width="236" height="60.13513513513513" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-337" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-336" target="P4rsjh-ctUIqkbW4M1at-334">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="4199.436936936937" as="sourcePoint" />
+            <mxPoint x="870" y="4149.324324324324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-335" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="P4rsjh-ctUIqkbW4M1at-467" source="P4rsjh-ctUIqkbW4M1at-332" target="P4rsjh-ctUIqkbW4M1at-334">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P4rsjh-ctUIqkbW4M1at-338" value="垃圾焚烧发电项目前期工作全流程图" style="swimlane;fontSize=20;fontColor=#FF3333;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="115" y="60" width="1050" height="4450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
