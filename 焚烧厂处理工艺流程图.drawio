@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T06:33:03.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" version="13.9.2" etag="axI-yoTF-kobcGC4_gV_" type="github"><diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">7ZrZcqM4FIafxpdNaQEBlzF22qnqtFP2TE/NpWIrWNUyookSO/P0czDCLLaTnpqQkIUbw68FLd/5kcADGq23XzOeri71UqgBQcvtgI4GhBBEffjJlYdC+YLdICikOJPLQsSVMJf/CCsiq97JpbhtZDRaKyPTprjQSSIWpqHxLNObZrYbrZp3TXksDoT5gqtD9S+5NCurYhZWCRMh45W9dUBsl6/54mec6bvE3m9A6M3uKJLXvKzLdvR2xZd6U5PoeECjTGtTnK23kVD56JbDVpQ7P5G6b3cmEvM7BZjrFkXuuboTZZuZgsLDGw11QBPNgx0W9utOlwlfbneTdgYZKEq3VeJuVpTOGiVqw1BJLLa/u7tdt4XblCeldj6dQm0ompxdfC/ToVP1LPt6sscqiv6Ovo2fqAHkg8aAVgzH6ZuRxlgRmNk0P12JLY91AllSkcm1MCKr1KtSgokfblbSiHnKF3mxDYQWaCuzVnCF826UqCC4UPxaqOEetsiOeKITkWc1mf4pov00UEJd1xvlUyeVOqbHGV9KYKZVUd7nc76WKo/kiVD3wsgFtwk2bAm11+16AbEhVzKGvo8WUHfecdu0MqjofuTuRWbE9iTFeB8b4DpCw5hlD5DFFnBJ4Hh+ELo+ZYELceoVNVj/IT5zHT8MiOsx7CJaMr+pQpti7OQlkUcYxVAXK7KsakFOvNAJWC2XzcOt2cT7dlUBByc25k7Fn3ck/loomUzyJM6vOmOknO8mHue74zc5wP5/4SDThhuZx8UoRI8AqGT6w3YuP5/Ycw1DIE3eGoKehyGKQqeNTUAcVju8A2x8cogJ9shzcMH+ty8T2vRl64DfLi7P/hifNLa3aGP22dKNjY16Y2Mecp/g8fVszO8I16vZdPRnNJ7N3xWwe2N9289dxsAga8SSJq+Mug4Ow+Kh66ESxl7wGnTE6/Ty+8WP6ex9+evHwBV0hzAvJ9X3cUiCHuEadoTrZDwbfvLaU16fWA9QRHq7rfFQV8vXs9mnwfYVWAwO2lqz9thUPfw8jO7gbGE6GkfTy6vp/L0tXN/JTmsHKqoO/GYWruXLhV6+L6qo6fJ9EcWn+euEFh+hFh8seGoj7h3y4NPnmH/6Of+PzH/9HWE3azLafsRR5DZfy7wgDMc+3nwwGEj4wm7gsoNFDkTlq/lBn78f9ACBzg2BMf/AEODB/0qGcOyrwcei4bGvSZ0AECDsoNouvbX/8WEp+UrWcOyd/CcML+YMlBInrG0RQtZCw0UvgwZcVv8o2aXV/rhDx/8C</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-10T06:39:10.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="X4OjOrfIqQw2-r97aSPu" version="13.9.2" type="github">
+  <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
+    <mxGraphModel dx="1376" dy="-1980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S564g8Ygkd87QMvgB1O5-657" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;电气系统、仪表及自动化系统、、公用系统、劳动卫生系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="2530" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S564g8Ygkd87QMvgB1O5-658" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="194.5" y="2504.67" width="375.5" height="395.33" as="geometry" />
+        </mxCell>
+        <mxCell id="644" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;垃圾焚烧厂&lt;br&gt;监管重点&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#23445D;gradientColor=none;fontFamily=Helvetica;fontSize=20;fontColor=#23445d;align=center;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="112.68800607287456" y="131.8433552631577" width="150.12398785425103" height="131.70997807017554" as="geometry" />
+        </mxCell>
+        <mxCell id="645" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=90;gradientColor=none;flipV=1;flipH=1;opacity=20;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="55.36217948717949" y="140.89966666666675" width="34.66153846153846" height="77.03866666666671" as="geometry" />
+        </mxCell>
+        <mxCell id="646" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 14px&quot;&gt;垃圾焚烧系统&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#ffffff;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445D;align=center;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="112.68800607287456" width="150.12398785425103" height="131.70997807017554" as="geometry" />
+        </mxCell>
+        <mxCell id="647" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 14px&quot;&gt;余热利用系统&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#FFFFFF;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445d;align=center;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="225.37601214574903" y="65.65158881578951" width="150.12398785425103" height="131.70997807017554" as="geometry" />
+        </mxCell>
+        <mxCell id="648" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 14px&quot;&gt;烟气净化系统&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#FFFFFF;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445d;align=center;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="225.37601214574903" y="197.46159978070185" width="150.12398785425103" height="131.70997807017554" as="geometry" />
+        </mxCell>
+        <mxCell id="649" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 14px&quot;&gt;残渣收运系统&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#FFFFFF;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445d;align=center;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="112.68800607287456" y="263.6200219298245" width="150.12398785425103" height="131.70997807017554" as="geometry" />
+        </mxCell>
+        <mxCell id="650" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 14px&quot;&gt;污水处理系统&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#FFFFFF;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445d;align=center;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry y="197.46159978070185" width="150.12398785425103" height="131.70997807017554" as="geometry" />
+        </mxCell>
+        <mxCell id="651" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;垃圾接收与储存系统&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#ffffff;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445D;align=center;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="5.473000969803439e-14" y="65.65158881578951" width="150.12398785425103" height="131.70997807017554" as="geometry" />
+        </mxCell>
+        <mxCell id="652" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=31;gradientColor=none;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="243.35288461538465" y="83.12066666666672" width="16.849358974358978" height="36.99883333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="653" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=31;gradientColor=none;flipH=1;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="115.53846153846156" y="273.68999999999994" width="16.849358974358978" height="36.99883333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="654" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=329;gradientColor=none;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="129.98076923076925" y="75.51816666666672" width="16.849358974358978" height="36.99883333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="655" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=329;gradientColor=none;flipH=1;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="227.70705128205134" y="281.29249999999996" width="16.849358974358978" height="36.99883333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="656" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=90;gradientColor=none;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="292.01332658569504" y="187.2749166666668" width="16.849358974358978" height="36.99883333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="657" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=90;gradientColor=none;flipH=1;strokeWidth=3;" parent="S564g8Ygkd87QMvgB1O5-658" vertex="1">
+          <mxGeometry x="66.63731443994604" y="170.04258333333345" width="16.849358974358978" height="36.99883333333336" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
