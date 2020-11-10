@@ -1,53 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T07:34:17.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="S2bSRDMeOu2VouJlHXeh" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T08:58:19.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="WDLmti6CMznPEIRKG8do" version="13.9.2" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="2293" dy="-1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="644" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;垃圾焚烧厂&lt;br&gt;监管重点&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#23445D;gradientColor=none;fontFamily=Helvetica;fontSize=20;fontColor=#23445d;align=center;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="337.19812753036445" y="2659.8584969635626" width="190.10374493927128" height="155.03150303643736" as="geometry" />
+          <mxGeometry x="182.69812753036445" y="2705.1884969635626" width="190.10374493927128" height="155.03150303643736" as="geometry" />
         </mxCell>
         <mxCell id="645" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=90;gradientColor=none;flipV=1;flipH=1;opacity=20;" parent="1" vertex="1">
-          <mxGeometry x="264.6057692307692" y="2670.518384615385" width="43.892307692307696" height="90.67969230769236" as="geometry" />
+          <mxGeometry x="110.10576923076923" y="2715.848384615385" width="43.892307692307696" height="90.67969230769236" as="geometry" />
         </mxCell>
         <mxCell id="646" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 14px ; line-height: 110%&quot;&gt;垃圾焚烧系统&lt;br&gt;（1.启停炉 2.燃烧工况 3.余热利用 4.炉渣热灼减率……）&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#ffffff;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445D;align=center;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="337.19812753036445" y="2504.67" width="190.10374493927128" height="155.03150303643736" as="geometry" />
+          <mxGeometry x="182.69812753036445" y="2550" width="190.10374493927128" height="155.03150303643736" as="geometry" />
         </mxCell>
         <mxCell id="647" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 14px ; line-height: 110%&quot;&gt;烟气净化系统&lt;br&gt;（1.烟气排放指标 2.环保耗材耗量及质量 3.环保设施运行……）&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#FFFFFF;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445d;align=center;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="479.8962550607288" y="2581.9463357793525" width="190.10374493927128" height="155.03150303643736" as="geometry" />
+          <mxGeometry x="325.3962550607288" y="2627.2763357793524" width="190.10374493927128" height="155.03150303643736" as="geometry" />
         </mxCell>
         <mxCell id="648" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 14px ; line-height: 110%&quot;&gt;残渣收运处置系统&lt;br&gt;（1.炉渣处置运输 2.飞灰处置运输 3.飞灰处置设施运行……）&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#FFFFFF;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445d;align=center;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="479.8962550607288" y="2737.095584261134" width="190.10374493927128" height="155.03150303643736" as="geometry" />
+          <mxGeometry x="325.3962550607288" y="2782.4255842611337" width="190.10374493927128" height="155.03150303643736" as="geometry" />
         </mxCell>
         <mxCell id="649" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 14px ; line-height: 110%&quot;&gt;污水处置系统&lt;br&gt;（1.渗滤液收集 2.渗滤液处置&lt;br&gt;排放 3.浓水处置……）&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#FFFFFF;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445d;align=center;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="337.19812753036445" y="2814.9684969635628" width="190.10374493927128" height="155.03150303643736" as="geometry" />
+          <mxGeometry x="182.69812753036445" y="2860.2984969635627" width="190.10374493927128" height="155.03150303643736" as="geometry" />
         </mxCell>
         <mxCell id="650" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 14px ; line-height: 110%&quot;&gt;安全管理&lt;br&gt;（1.两票三制执行情况 2.特种设备管理 3.特种人员管理……）&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#FFFFFF;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445d;align=center;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="194.5" y="2737.095584261134" width="190.10374493927128" height="155.03150303643736" as="geometry" />
+          <mxGeometry x="40" y="2782.4255842611337" width="190.10374493927128" height="155.03150303643736" as="geometry" />
         </mxCell>
         <mxCell id="651" value="&lt;span style=&quot;font-size: 10.5pt ; line-height: 110%&quot;&gt;垃圾接收与储存系统&lt;br&gt;（1.进厂车辆 2.垃圾计量 3.卸料储料……）&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445D;fillColor=#ffffff;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=#23445D;align=center;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="194.50000000000006" y="2581.9463357793525" width="190.10374493927128" height="155.03150303643736" as="geometry" />
+          <mxGeometry x="40.00000000000006" y="2627.2763357793524" width="190.10374493927128" height="155.03150303643736" as="geometry" />
         </mxCell>
         <mxCell id="652" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=31;gradientColor=none;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="502.6605769230769" y="2602.5086153846155" width="21.336538461538467" height="43.55011538461542" as="geometry" />
+          <mxGeometry x="348.1605769230769" y="2647.8386153846154" width="21.336538461538467" height="43.55011538461542" as="geometry" />
         </mxCell>
         <mxCell id="653" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=31;gradientColor=none;flipH=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="340.8076923076924" y="2826.8215384615387" width="21.336538461538467" height="43.55011538461542" as="geometry" />
+          <mxGeometry x="186.30769230769238" y="2872.1515384615386" width="21.336538461538467" height="43.55011538461542" as="geometry" />
         </mxCell>
         <mxCell id="654" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=329;gradientColor=none;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="359.09615384615387" y="2593.5599615384617" width="21.336538461538467" height="43.55011538461542" as="geometry" />
+          <mxGeometry x="204.59615384615387" y="2638.8899615384616" width="21.336538461538467" height="43.55011538461542" as="geometry" />
         </mxCell>
         <mxCell id="655" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=329;gradientColor=none;flipH=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="482.848076923077" y="2835.7701923076925" width="21.336538461538467" height="43.55011538461542" as="geometry" />
+          <mxGeometry x="328.348076923077" y="2881.1001923076924" width="21.336538461538467" height="43.55011538461542" as="geometry" />
         </mxCell>
         <mxCell id="656" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=90;gradientColor=none;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="564.2798582995952" y="2725.105173076923" width="21.336538461538467" height="43.55011538461542" as="geometry" />
+          <mxGeometry x="409.77985829959516" y="2770.435173076923" width="21.336538461538467" height="43.55011538461542" as="geometry" />
         </mxCell>
         <mxCell id="657" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;fillColor=#23445D;fontFamily=Helvetica;fontSize=17;fontColor=#23445d;align=center;rotation=90;gradientColor=none;flipH=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="278.8836032388664" y="2704.821557692308" width="21.336538461538467" height="43.55011538461542" as="geometry" />
+          <mxGeometry x="124.38360323886639" y="2750.151557692308" width="21.336538461538467" height="43.55011538461542" as="geometry" />
         </mxCell>
         <mxCell id="S564g8Ygkd87QMvgB1O5-792" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="900" y="2510" width="1220" height="660" as="geometry" />
+          <mxGeometry x="600" y="2500" width="1220" height="660" as="geometry" />
         </mxCell>
         <mxCell id="S564g8Ygkd87QMvgB1O5-660" value="焚烧厂处理工艺流程图" style="swimlane;fontSize=16;containerType=tree" vertex="1" parent="S564g8Ygkd87QMvgB1O5-792">
           <mxGeometry width="1220.0000000000002" height="660" as="geometry" />
