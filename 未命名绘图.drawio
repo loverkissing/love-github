@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T07:09:30.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="GW8laQsfGJE8U5qCCTke" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T07:35:01.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="-z_LhKsw3e5nqUq83lhh" version="14.1.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1619" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1619" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y8CCUpn9FJHreCWR11MV-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;组织架构图&lt;/font&gt;" style="swimlane;html=1;startSize=30;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="546" y="150" width="1390" height="550" as="geometry" />
+          <mxGeometry x="650" y="160" width="850" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Y8CCUpn9FJHreCWR11MV-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="Y8CCUpn9FJHreCWR11MV-5" source="Y8CCUpn9FJHreCWR11MV-8" target="Y8CCUpn9FJHreCWR11MV-9">
           <mxGeometry relative="1" as="geometry" />
@@ -15,190 +15,366 @@
         </mxCell>
         <UserObject label="顺德第三方监管事业部" treeRoot="1" id="Y8CCUpn9FJHreCWR11MV-8">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
-            <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+            <mxGeometry x="350" y="60" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-9" value="项目总监" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
-          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-9" value="项目总监" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+          <mxGeometry x="60" y="160" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-10" value="运营监管单项负责人" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
-          <mxGeometry x="350" y="140" width="100" height="60" as="geometry" />
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-10" value="运营监管单项负责人" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+          <mxGeometry x="360" y="160" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y8CCUpn9FJHreCWR11MV-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-12" source="Y8CCUpn9FJHreCWR11MV-8" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="250" as="sourcePoint" />
+            <mxPoint x="300" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-12" value="驻局工作人员" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
-          <mxGeometry x="690" y="140" width="100" height="60" as="geometry" />
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-12" value="驻局工作人员" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+          <mxGeometry x="520" y="160" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y8CCUpn9FJHreCWR11MV-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-16" source="Y8CCUpn9FJHreCWR11MV-8" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="250" as="sourcePoint" />
+            <mxPoint x="300" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-16" value="监管项目负责人" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
-          <mxGeometry x="130" y="140" width="100" height="60" as="geometry" />
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-16" value="监管项目负责人" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+          <mxGeometry x="210" y="160" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y8CCUpn9FJHreCWR11MV-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-18" source="Y8CCUpn9FJHreCWR11MV-8" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="250" as="sourcePoint" />
+            <mxPoint x="300" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-18" value="现场监管人员" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
-          <mxGeometry x="1080" y="140" width="100" height="60" as="geometry" />
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-18" value="现场监管人员" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+          <mxGeometry x="670" y="160" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-20" source="Y8CCUpn9FJHreCWR11MV-9" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-20" source="Y8CCUpn9FJHreCWR11MV-9" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-20" value="杨蕴辉&lt;br&gt;（高级工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-20" value="杨蕴辉&lt;br&gt;（高级工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="20" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-22" source="Y8CCUpn9FJHreCWR11MV-16" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-22" source="Y8CCUpn9FJHreCWR11MV-16" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-22" value="汪群超&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-22" value="汪群超&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="130" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-24" source="Y8CCUpn9FJHreCWR11MV-10" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-24" source="Y8CCUpn9FJHreCWR11MV-10" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-24" value="李加海&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-24" value="李加海&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="240" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-26" source="Y8CCUpn9FJHreCWR11MV-10" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-26" source="Y8CCUpn9FJHreCWR11MV-10" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-26" value="胡雪理&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-26" value="胡雪理&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="350" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-28" source="Y8CCUpn9FJHreCWR11MV-10" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-28" source="Y8CCUpn9FJHreCWR11MV-10" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-28" value="肖健&lt;br&gt;（助理工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-28" value="肖健&lt;br&gt;（助理工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="460" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-30" source="Y8CCUpn9FJHreCWR11MV-12" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-30" source="Y8CCUpn9FJHreCWR11MV-12" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-30" value="谭志鹏" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-30" value="谭志鹏" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="580" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-32" source="Y8CCUpn9FJHreCWR11MV-12" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-32" source="Y8CCUpn9FJHreCWR11MV-12" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1030" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-32" value="刘雄雄" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-32" value="刘雄雄" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="690" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-34" source="Y8CCUpn9FJHreCWR11MV-12" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-34" source="Y8CCUpn9FJHreCWR11MV-12" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1030" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-34" value="龚杰" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-34" value="龚杰" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="800" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-36" source="Y8CCUpn9FJHreCWR11MV-18" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-36" source="Y8CCUpn9FJHreCWR11MV-18" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-36" value="张正科&lt;br&gt;（助理工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-36" value="张正科&lt;br&gt;（助理工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="920" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-38" source="Y8CCUpn9FJHreCWR11MV-18" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-38" source="Y8CCUpn9FJHreCWR11MV-18" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1540" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-38" value="徐建&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-38" value="徐建&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="1030" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-40" source="Y8CCUpn9FJHreCWR11MV-18" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-40" source="Y8CCUpn9FJHreCWR11MV-18" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1540" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-40" value="王镖&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-40" value="王镖&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="1140" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-42" source="Y8CCUpn9FJHreCWR11MV-18" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-42" source="Y8CCUpn9FJHreCWR11MV-18" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1540" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-42" value="宣力&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-42" value="宣力&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="1250" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" target="Y8CCUpn9FJHreCWR11MV-44" source="Y8CCUpn9FJHreCWR11MV-36" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-44" source="Y8CCUpn9FJHreCWR11MV-36" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1540" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-44" value="吕雪冰" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-44" value="吕雪冰" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="920" y="320" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-47" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" target="Y8CCUpn9FJHreCWR11MV-48" source="Y8CCUpn9FJHreCWR11MV-38" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-47" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-48" source="Y8CCUpn9FJHreCWR11MV-38" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1540" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-48" value="陈方" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-48" value="陈方" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="1030" y="320" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" target="Y8CCUpn9FJHreCWR11MV-50" source="Y8CCUpn9FJHreCWR11MV-40" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-50" source="Y8CCUpn9FJHreCWR11MV-40" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1540" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-50" value="季鑫" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-50" value="季鑫" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="1140" y="320" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-51" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" target="Y8CCUpn9FJHreCWR11MV-52" source="Y8CCUpn9FJHreCWR11MV-42" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-51" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-52" source="Y8CCUpn9FJHreCWR11MV-42" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1540" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-52" value="张驹&lt;br&gt;（助理工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-52" value="张驹&lt;br&gt;（助理工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="1250" y="320" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-53" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" target="Y8CCUpn9FJHreCWR11MV-54" source="Y8CCUpn9FJHreCWR11MV-18" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-53" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-54" source="Y8CCUpn9FJHreCWR11MV-18" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1540" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-54" value="宋海威&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-54" value="宋海威&lt;br&gt;（工程师）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="1028" y="395" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" target="Y8CCUpn9FJHreCWR11MV-56" source="Y8CCUpn9FJHreCWR11MV-54" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-56" source="Y8CCUpn9FJHreCWR11MV-54" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1538" y="315" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-56" value="宋仕青" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-56" value="宋仕青" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="1142" y="395" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" target="Y8CCUpn9FJHreCWR11MV-58" source="Y8CCUpn9FJHreCWR11MV-44" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;strokeColor=none;" edge="1" visible="0" target="Y8CCUpn9FJHreCWR11MV-58" source="Y8CCUpn9FJHreCWR11MV-44" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1380" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8CCUpn9FJHreCWR11MV-58" value="李焕才" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-5">
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-58" value="李焕才" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="Y8CCUpn9FJHreCWR11MV-5">
           <mxGeometry x="918" y="395" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-60" value="&lt;font style=&quot;font-size: 16px&quot;&gt;组织架构图&lt;/font&gt;" style="swimlane;html=1;startSize=30;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="350" y="570" width="1240" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="Y8CCUpn9FJHreCWR11MV-60" source="Y8CCUpn9FJHreCWR11MV-63" target="Y8CCUpn9FJHreCWR11MV-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="顺德第三方监管事业部" treeRoot="1" id="Y8CCUpn9FJHreCWR11MV-63">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+            <mxGeometry x="620" y="50" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-64" value="项目总监" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="480" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-68" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="Y8CCUpn9FJHreCWR11MV-60" source="Y8CCUpn9FJHreCWR11MV-63" target="Y8CCUpn9FJHreCWR11MV-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-69" value="监管项目负责人" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="630" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-110" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-111" source="Y8CCUpn9FJHreCWR11MV-69" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1259.9999999999995" y="669.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-111" value="运营单项负责人" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="630" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-112" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-113" source="Y8CCUpn9FJHreCWR11MV-111" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="759.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-113" value="焚烧项目负责人" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="200" y="370" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-114" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-115" source="Y8CCUpn9FJHreCWR11MV-111" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="759.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-115" value="餐厨项目负责人" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="630" y="370" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-116" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-117" source="Y8CCUpn9FJHreCWR11MV-111" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="859.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-117" value="中转站收运负责人" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="980" y="370" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-118" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-119" source="Y8CCUpn9FJHreCWR11MV-113" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="889.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-119" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="140" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-120" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-121" source="Y8CCUpn9FJHreCWR11MV-115" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="889.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-121" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="520" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-122" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-123" source="Y8CCUpn9FJHreCWR11MV-117" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="889.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-123" value="中转站收运负责人" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="870" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-124" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-125" source="Y8CCUpn9FJHreCWR11MV-113" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="989.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-125" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="30" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-126" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-127" source="Y8CCUpn9FJHreCWR11MV-113" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="989.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-127" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="250" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-128" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-129" source="Y8CCUpn9FJHreCWR11MV-115" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="989.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-129" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="630" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-130" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-131" source="Y8CCUpn9FJHreCWR11MV-115" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="989.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-131" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="740" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-134" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="870" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-135" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="980" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-136" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="Y8CCUpn9FJHreCWR11MV-60" source="Y8CCUpn9FJHreCWR11MV-117" target="Y8CCUpn9FJHreCWR11MV-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="429.9999999999998" as="sourcePoint" />
+            <mxPoint x="810" y="469.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-137" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="Y8CCUpn9FJHreCWR11MV-60" source="Y8CCUpn9FJHreCWR11MV-117" target="Y8CCUpn9FJHreCWR11MV-135">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="429.9999999999998" as="sourcePoint" />
+            <mxPoint x="920" y="469.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-133" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="1090" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-132" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-133" source="Y8CCUpn9FJHreCWR11MV-117" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1570" y="979.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-138" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-139" source="Y8CCUpn9FJHreCWR11MV-63" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="679.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-139" value="驻局监管人员" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="980" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-140" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-141" source="Y8CCUpn9FJHreCWR11MV-139" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="679.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-141" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="980" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-142" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-143" source="Y8CCUpn9FJHreCWR11MV-139" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1520" y="779.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-143" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="1090" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-144" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-145" source="Y8CCUpn9FJHreCWR11MV-139" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1520" y="779.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-145" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="870" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-146" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="Y8CCUpn9FJHreCWR11MV-147" source="Y8CCUpn9FJHreCWR11MV-113" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="999.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8CCUpn9FJHreCWR11MV-147" value="监管工程师" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="Y8CCUpn9FJHreCWR11MV-60">
+          <mxGeometry x="360" y="470" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
