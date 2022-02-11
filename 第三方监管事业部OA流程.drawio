@@ -1,1 +1,438 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T02:13:47.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="-aRWta_jYn8XiPjHO_cD" version="16.5.6" type="github"><diagram id="9cjSWzcW_gVjV4FoyTow" name="第 1 页">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-11T06:44:41.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="WZmifwmpfazuq36HsQMz" version="16.5.6" type="github">
+  <diagram id="9cjSWzcW_gVjV4FoyTow" name="第 1 页">
+    <mxGraphModel dx="1165" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-1" value="请假调休流程" style="swimlane;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="24" y="20" width="346" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-8" value="（小于3天）个人发起" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-1" vertex="1">
+          <mxGeometry x="16" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-9" value="项目经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-1" vertex="1">
+          <mxGeometry x="16" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-1" source="sCYieP3I8B-GLEhcIFoH-8" target="sCYieP3I8B-GLEhcIFoH-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-1" source="sCYieP3I8B-GLEhcIFoH-9" target="sCYieP3I8B-GLEhcIFoH-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="76" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-11" value="区域经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-1" vertex="1">
+          <mxGeometry x="16" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-1" source="sCYieP3I8B-GLEhcIFoH-11" target="sCYieP3I8B-GLEhcIFoH-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="86" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-13" value="副总（汪总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-1" vertex="1">
+          <mxGeometry x="16" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-16" value="（大于3天）个人发起" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-1" vertex="1">
+          <mxGeometry x="196" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-17" value="项目经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-1" vertex="1">
+          <mxGeometry x="196" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-1" source="sCYieP3I8B-GLEhcIFoH-16" target="sCYieP3I8B-GLEhcIFoH-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-1" source="sCYieP3I8B-GLEhcIFoH-17" target="sCYieP3I8B-GLEhcIFoH-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="246" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-20" value="区域经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-1" vertex="1">
+          <mxGeometry x="196" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-1" source="sCYieP3I8B-GLEhcIFoH-20" target="sCYieP3I8B-GLEhcIFoH-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="256" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-22" value="副总（汪总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-1" vertex="1">
+          <mxGeometry x="196" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-1" source="sCYieP3I8B-GLEhcIFoH-13" target="sCYieP3I8B-GLEhcIFoH-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="86" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-24" value="……" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-1" vertex="1">
+          <mxGeometry x="16" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-1" source="sCYieP3I8B-GLEhcIFoH-22" target="sCYieP3I8B-GLEhcIFoH-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="266" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-26" value="总经理（杨总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-1" vertex="1">
+          <mxGeometry x="196" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-1" source="sCYieP3I8B-GLEhcIFoH-26" target="sCYieP3I8B-GLEhcIFoH-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="266" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-28" value="……" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-1" vertex="1">
+          <mxGeometry x="196" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-29" value="出差流程" style="swimlane;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="414" y="20" width="340" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-29" source="sCYieP3I8B-GLEhcIFoH-31" target="sCYieP3I8B-GLEhcIFoH-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-31" value="区域经理发起" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-29" vertex="1">
+          <mxGeometry x="20" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-32" value="副总（汪总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-29" vertex="1">
+          <mxGeometry x="20" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-29" source="sCYieP3I8B-GLEhcIFoH-32" target="sCYieP3I8B-GLEhcIFoH-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-34" value="&lt;span&gt;总经理（杨总）&lt;/span&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-29" vertex="1">
+          <mxGeometry x="20" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-35" value="个人发起" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-29" vertex="1">
+          <mxGeometry x="180" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-36" value="项目经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-29" vertex="1">
+          <mxGeometry x="180" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-29" source="sCYieP3I8B-GLEhcIFoH-35" target="sCYieP3I8B-GLEhcIFoH-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-38" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-29" source="sCYieP3I8B-GLEhcIFoH-36" target="sCYieP3I8B-GLEhcIFoH-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-39" value="区域经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-29" vertex="1">
+          <mxGeometry x="180" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-40" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-29" source="sCYieP3I8B-GLEhcIFoH-39" target="sCYieP3I8B-GLEhcIFoH-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-41" value="副总（汪总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-29" vertex="1">
+          <mxGeometry x="180" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-29" source="sCYieP3I8B-GLEhcIFoH-41" target="sCYieP3I8B-GLEhcIFoH-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-50" value="……" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-29" vertex="1">
+          <mxGeometry x="180" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NS-CcprydXycv-60SCsT-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="NS-CcprydXycv-60SCsT-6" source="sCYieP3I8B-GLEhcIFoH-34" parent="sCYieP3I8B-GLEhcIFoH-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NS-CcprydXycv-60SCsT-6" value="……" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="sCYieP3I8B-GLEhcIFoH-29">
+          <mxGeometry x="20" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-55" value="报销流程" style="swimlane;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="794" y="20" width="340" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-61" value="个人发起" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-55" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-62" value="项目经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-55" vertex="1">
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-63" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-55" source="sCYieP3I8B-GLEhcIFoH-61" target="sCYieP3I8B-GLEhcIFoH-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-55" source="sCYieP3I8B-GLEhcIFoH-62" target="sCYieP3I8B-GLEhcIFoH-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-65" value="区域经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-55" vertex="1">
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-66" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-55" source="sCYieP3I8B-GLEhcIFoH-65" target="sCYieP3I8B-GLEhcIFoH-67" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-67" value="副总（汪总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-55" vertex="1">
+          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-68" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-55" source="sCYieP3I8B-GLEhcIFoH-67" target="sCYieP3I8B-GLEhcIFoH-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-69" value="总经理（杨总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-55" vertex="1">
+          <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-70" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-55" source="sCYieP3I8B-GLEhcIFoH-69" target="sCYieP3I8B-GLEhcIFoH-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-71" value="马院长" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-55" vertex="1">
+          <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-76" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-55" source="sCYieP3I8B-GLEhcIFoH-71" target="sCYieP3I8B-GLEhcIFoH-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-77" value="……" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-55" vertex="1">
+          <mxGeometry x="180" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-78" value="报销流程" style="swimlane;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="794" y="20" width="340" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-79" value="个人发起" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-78" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-80" value="项目经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-78" vertex="1">
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-81" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-78" source="sCYieP3I8B-GLEhcIFoH-79" target="sCYieP3I8B-GLEhcIFoH-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-82" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-78" source="sCYieP3I8B-GLEhcIFoH-80" target="sCYieP3I8B-GLEhcIFoH-83" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-83" value="区域经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-78" vertex="1">
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-84" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-78" source="sCYieP3I8B-GLEhcIFoH-83" target="sCYieP3I8B-GLEhcIFoH-85" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-85" value="副总（汪总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-78" vertex="1">
+          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-86" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-78" source="sCYieP3I8B-GLEhcIFoH-85" target="sCYieP3I8B-GLEhcIFoH-87" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-87" value="总经理（杨总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-78" vertex="1">
+          <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-88" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-78" source="sCYieP3I8B-GLEhcIFoH-87" target="sCYieP3I8B-GLEhcIFoH-89" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-89" value="马院长" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-78" vertex="1">
+          <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-90" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-78" source="sCYieP3I8B-GLEhcIFoH-89" target="sCYieP3I8B-GLEhcIFoH-91" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-91" value="……" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-78" vertex="1">
+          <mxGeometry x="180" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-92" value="人员异动/离职/借款流程" style="swimlane;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="24" y="550" width="346" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-93" value="个人发起" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-92" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-94" value="项目经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-92" vertex="1">
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-95" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-92" source="sCYieP3I8B-GLEhcIFoH-93" target="sCYieP3I8B-GLEhcIFoH-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-96" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-92" source="sCYieP3I8B-GLEhcIFoH-94" target="sCYieP3I8B-GLEhcIFoH-97" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-97" value="区域经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-92" vertex="1">
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-98" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-92" source="sCYieP3I8B-GLEhcIFoH-97" target="sCYieP3I8B-GLEhcIFoH-99" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-99" value="副总（汪总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-92" vertex="1">
+          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-100" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-92" source="sCYieP3I8B-GLEhcIFoH-99" target="sCYieP3I8B-GLEhcIFoH-101" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-101" value="总经理（杨总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-92" vertex="1">
+          <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-102" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-92" source="sCYieP3I8B-GLEhcIFoH-101" target="sCYieP3I8B-GLEhcIFoH-103" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-103" value="马院长" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-92" vertex="1">
+          <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-104" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-92" source="sCYieP3I8B-GLEhcIFoH-103" target="sCYieP3I8B-GLEhcIFoH-105" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-105" value="……" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-92" vertex="1">
+          <mxGeometry x="180" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-106" value="加班流程" style="swimlane;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="414" y="550" width="340" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-107" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-106" source="sCYieP3I8B-GLEhcIFoH-108" target="sCYieP3I8B-GLEhcIFoH-109" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-108" value="区域经理发起" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-106" vertex="1">
+          <mxGeometry x="20" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-109" value="副总（汪总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-106" vertex="1">
+          <mxGeometry x="20" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-110" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-106" source="sCYieP3I8B-GLEhcIFoH-109" target="sCYieP3I8B-GLEhcIFoH-111" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-111" value="总经理（杨总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-106" vertex="1">
+          <mxGeometry x="20" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-112" value="个人发起" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-106" vertex="1">
+          <mxGeometry x="180" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-113" value="项目经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-106" vertex="1">
+          <mxGeometry x="180" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-114" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-106" source="sCYieP3I8B-GLEhcIFoH-112" target="sCYieP3I8B-GLEhcIFoH-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-115" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-106" source="sCYieP3I8B-GLEhcIFoH-113" target="sCYieP3I8B-GLEhcIFoH-116" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-116" value="区域经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-106" vertex="1">
+          <mxGeometry x="180" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-117" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-106" source="sCYieP3I8B-GLEhcIFoH-116" target="sCYieP3I8B-GLEhcIFoH-118" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-118" value="副总（汪总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-106" vertex="1">
+          <mxGeometry x="180" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-119" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-106" source="sCYieP3I8B-GLEhcIFoH-118" target="sCYieP3I8B-GLEhcIFoH-120" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-120" value="……" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-106" vertex="1">
+          <mxGeometry x="180" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NS-CcprydXycv-60SCsT-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="NS-CcprydXycv-60SCsT-8" source="sCYieP3I8B-GLEhcIFoH-111" parent="sCYieP3I8B-GLEhcIFoH-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="720" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NS-CcprydXycv-60SCsT-8" value="……" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="sCYieP3I8B-GLEhcIFoH-106">
+          <mxGeometry x="20" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-136" value="外出/补签流程" style="swimlane;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="794" y="550" width="340" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-137" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-136" source="sCYieP3I8B-GLEhcIFoH-138" target="sCYieP3I8B-GLEhcIFoH-139" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-138" value="区域经理发起" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-136" vertex="1">
+          <mxGeometry x="20" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-139" value="副总（汪总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-136" vertex="1">
+          <mxGeometry x="20" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-140" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-136" source="sCYieP3I8B-GLEhcIFoH-139" target="sCYieP3I8B-GLEhcIFoH-141" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-141" value="总经理（杨总）" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-136" vertex="1">
+          <mxGeometry x="20" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-142" value="个人发起" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-136" vertex="1">
+          <mxGeometry x="180" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-143" value="项目经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-136" vertex="1">
+          <mxGeometry x="180" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-144" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-136" source="sCYieP3I8B-GLEhcIFoH-142" target="sCYieP3I8B-GLEhcIFoH-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-145" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-136" source="sCYieP3I8B-GLEhcIFoH-143" target="sCYieP3I8B-GLEhcIFoH-146" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-146" value="区域经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-136" vertex="1">
+          <mxGeometry x="180" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-147" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-136" source="sCYieP3I8B-GLEhcIFoH-146" target="sCYieP3I8B-GLEhcIFoH-148" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-148" value="……" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-136" vertex="1">
+          <mxGeometry x="180" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NS-CcprydXycv-60SCsT-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="NS-CcprydXycv-60SCsT-10" source="sCYieP3I8B-GLEhcIFoH-141" parent="sCYieP3I8B-GLEhcIFoH-136">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="874" y="720" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NS-CcprydXycv-60SCsT-10" value="……" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="sCYieP3I8B-GLEhcIFoH-136">
+          <mxGeometry x="20" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-151" value="用章流程（项目章）" style="swimlane;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="550" width="340" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-157" value="项目经理" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-151" vertex="1">
+          <mxGeometry x="180" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-158" value="&lt;span&gt;区域经理&lt;/span&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-151" vertex="1">
+          <mxGeometry x="180" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-159" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-151" source="sCYieP3I8B-GLEhcIFoH-157" target="sCYieP3I8B-GLEhcIFoH-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-160" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="sCYieP3I8B-GLEhcIFoH-151" source="sCYieP3I8B-GLEhcIFoH-158" target="sCYieP3I8B-GLEhcIFoH-161" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCYieP3I8B-GLEhcIFoH-161" value="……" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="sCYieP3I8B-GLEhcIFoH-151" vertex="1">
+          <mxGeometry x="180" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
